@@ -3,7 +3,7 @@ import Img1 from "../../assets/portfolio1.jpg";
 import Img2 from "../../assets/portfolio2.jpg";
 import Img3 from "../../assets/portfolio3.jpg";
 import Img4 from "../../assets/portfolio4.jpg";
-import Img5 from "../../assets/portfolio5.png";
+import Img5 from "../../assets/portfolio5.jpg";
 import Img6 from "../../assets/portfolio6.jpg";
 import "./portfolio.css";
 
